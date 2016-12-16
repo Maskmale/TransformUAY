@@ -1,4 +1,4 @@
-> simple uyghur conversion to uyghur arabic script
+> simple conversion to uyghur arabic script
 
 1. UAY to PinYin
 
